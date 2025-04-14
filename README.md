@@ -70,7 +70,3 @@ Abra o arquivo `resolucao.ipynb` com Jupyter Notebook ou diretamente pelo VSCode
 Se preferir abrir pelo terminal:
 
 `jupyter notebook`
-
-## Objetivo Final
-
-O projeto busca compreender os principais fatores relacionados ao churn e possibilita a construção de um modelo de ML para idêntificar churn de clientes.

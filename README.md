@@ -47,7 +47,7 @@ O projeto foi desenvolvido em Python utilizando ambiente virtual (`venv`). Abaix
 
 ### 1. Clonar o repositório
 
-`git clone <URL-do-repositorio> cd nome-do-projeto`
+`git clone https://github.com/robertof1lho/Case-Inteli-Academy.git`
 
 ### 2. Criar e ativar o ambiente virtual
 
